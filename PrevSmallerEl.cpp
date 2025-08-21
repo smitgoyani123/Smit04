@@ -23,6 +23,6 @@ int main(){
     vector<int> ans = PrevSmallerEl(arr);
     for(int val : ans)
         cout<<val<<" ";
-    
+    //-1 -1 -1 0 0 
     return 0;
 }
